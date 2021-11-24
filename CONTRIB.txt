@@ -1,0 +1,32 @@
+Timer & Score/Highscore code inspiration:
+	by Paul Vincent Craven
+		via http://programarcadegames.com/python_examples/f.php?file=timer.py
+			*inspiration for code to produce a timer, which i converted a per-second timer and then into score and ideas for reading/writing highscore
+
+Font:
+Eight Bit Dragon Font
+	by Chequered Ink 
+		via fontspace.com
+
+Sprite Set:
+16x16 Dungeon Tileset 
+	by 0x72 
+		via https://0x72.itch.io/16x16-dungeon-tileset
+
+Music:
+Intro Screen: Chibi Ninja
+Main Game: Ascending
+Death Screen: Digital Native
+	all by Eric Sciff
+		via ericsciff.com/music
+
+
+Pixel Keyboard Image:
+Pixel Keyboard Layout
+	by xPheRe
+		via https://xphere.itch.io/pixel-keyboard-layout
+
+
+
+*ALL other code written, art arranged and program imagined/designed by myself (Matthew Laws).
+
